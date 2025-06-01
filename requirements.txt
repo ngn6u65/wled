@@ -1,0 +1,4 @@
+requests
+telebot
+MedoSigner
+user_agent
